@@ -19,26 +19,24 @@ Life Vector is a Python-based Command-Line Interface (CLI) application designed 
 
 ## 📂 Project Structure
 life-vector/
+
 │── main.py
+
 │── quotes.txt
+
 │── screenshots/
+
 │── README.md
 
-
-## ▶️ How to Run the Project
-```bash
-python main.py
-
 ## 📸 Screenshots
-
 Screenshots of the application are available in the screenshots folder.
 
-🌱 Future Enhancements
-Graphical User Interface (Tkinter or PyQt)
-Data Visualization
-Web-Based Version using Flask or Django
-AI-powered productivity insights
+## 🌱 Future Enhancements
+- Graphical User Interface (Tkinter or PyQt)
+- Data Visualization
+- Web-Based Version using Flask or Django
+- AI-powered productivity insights
 
-👨‍💻 Author
+## 👨‍💻 Author
 Piyush Sharma
-Aspiring AI/ML Engineer
+( Aspiring AI/ML Engineer )
