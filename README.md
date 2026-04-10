@@ -40,7 +40,7 @@ life-vector/
 ![Menu](screenshots/Start-Menu.png)
 
 ### 📋 Task Management
-![Tasks](screenshots/Task-management.png)
+![Tasks](screenshots/Task-managemant.png)
 
 ### 📝 Notes Management
 ![Notes](screenshots/Notes-management.png)
