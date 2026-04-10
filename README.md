@@ -31,6 +31,10 @@ life-vector/
 ## 📸 Screenshots
 Screenshots of the application are available in the screenshots folder.
 
+## ✅ How to use
+- Keep the main.py and quotes.txt in same directory,
+- Run main.py
+
 ## 🌱 Future Enhancements
 - Graphical User Interface (Tkinter or PyQt)
 - Data Visualization
