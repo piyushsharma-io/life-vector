@@ -29,11 +29,37 @@ life-vector/
 │── README.md
 
 ## 📸 Screenshots
-Screenshots of the application are available in the screenshots folder.
+
+### 🔐 Login Page
+![Login](screenshots/Login-Page.png)
+
+### 📝 Registration Page
+![Register](screenshots/Registration-Page.png)
+
+### 🏠 Main Menu
+![Menu](screenshots/Start-Menu.png)
+
+### 📋 Task Management
+![Tasks](screenshots/Task-management.png)
+
+### 📝 Notes Management
+![Notes](screenshots/Notes-management.png)
+
+### 😊 Mood Tracker
+![Mood](screenshots/Mood-tracking.png)
+
+### 💰 Financial Tracker
+![Finance](screenshots/Financial-tracking.png)
 
 ## ✅ How to use
 - Keep the main.py and quotes.txt in same directory,
 - Run main.py
+### ▶️ How to Run
+```bash
+git clone https://github.com/piyushsharma-io/life-vector.git
+cd life-vector
+python main.py
+```
 
 ## 🌱 Future Enhancements
 - Graphical User Interface (Tkinter or PyQt)
